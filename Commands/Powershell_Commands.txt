@@ -1,0 +1,24 @@
+
+---
+
+## 💻 PowerShell Commands Used
+
+```powershell
+systeminfo
+Get-ComputerInfo
+Get-HotFix
+Update-MpSignature
+Start-MpScan -ScanType QuickScan
+Get-MpComputerStatus
+Get-NetFirewallProfile
+Get-LocalUser
+Get-LocalGroupMember Administrators
+Get-Volume
+ipconfig /all
+Get-NetAdapter
+netstat -ano
+Get-NetTCPConnection
+Get-DnsClientServerAddress
+Get-EventLog -LogName Security -Newest 20
+Get-EventLog -LogName System -Newest 20
+Get-ComputerRestorePoint
