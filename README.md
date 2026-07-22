@@ -1,3 +1,28 @@
+## 🎓 Academic Information
+
+Project Title: Hardening and Securing an Operating System
+
+Project Type: Cybersecurity Minor Project
+
+Department: Computer Engineering
+
+Institute: Sardar Vallabhbhai Patel Institute of Technology (SVIT), Vasad
+
+## 👨‍💻 Author
+
+### Aaditya Mistry
+
+GitHub: https://github.com/AadityaMistry
+LinkedIn: https://www.linkedin.com/in/aaditya-mistry
+
+## 📜 License
+
+This project is shared for educational purposes only. Feel free to use it as a learning resource with appropriate attribution.
+
+
+---
+
+
 # 🛡️ Hardening and Securing an Operating System (Windows 11)
 
 A practical cybersecurity project demonstrating the implementation of **Windows 11 Operating System Hardening** using built-in Windows security features and PowerShell. The project focuses on improving system security by applying industry-recommended hardening techniques and verifying each security configuration through practical implementation.
